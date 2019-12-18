@@ -1,7 +1,5 @@
 # -*-coding:utf-8-*-
-# Copyright (c) 2015 Shiye Inc.
-# All rights reserved.
-#
+
 # Author: 赵朋飞 <pengfeizhao036@gmail.com>
 # Date:   18-11-16
 
