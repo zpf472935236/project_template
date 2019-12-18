@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 
-# Author: 赵朋飞 <pengfeizhao036@gmail.com>
-# Date:   18-11-16
+# @Author: 赵朋飞 <pengfeizhao036@gmail.com>
+# @Date:   2018-11-16
 
 mysql_host = {
     # 本地数据库
