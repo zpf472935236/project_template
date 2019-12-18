@@ -1,0 +1,1 @@
+fsp_path = "/data1/logs/"
