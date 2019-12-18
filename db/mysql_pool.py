@@ -1,8 +1,7 @@
-# Copyright (c) 2015 Shiye Inc.
-# All rights reserved.
-#
-# Author: 赵朋飞 <zhaopengfei@shiyejinrong.com>
-# Date:   18-11-16
+# -*-coding:utf-8-*-
+
+# @Author: 赵朋飞 <pengfeizhao036@gmail.com>
+# @Date:   2018-11-16
 
 import os, sys
 cur_dir = os.path.abspath(os.path.dirname(__file__))
