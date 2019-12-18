@@ -1,9 +1,7 @@
-# Copyright (c) 2015 Shiye Inc.
-# All rights reserved.
-#
-# Author: 赵朋飞
-# Date:   19-5-5
+# -*-coding:utf-8-*-
 
+# @Author: 赵朋飞 <pengfeizhao036@gmail.com>
+# @Date:   2018-11-16
 
 import datetime
 import os
