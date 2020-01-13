@@ -38,5 +38,27 @@ mongo_host = {
 }
 
 redis_host = {
+    # 本地数据库
+    "desktop": {
+        "host": "localhost",
+        "port": 6379,
+        # "user": "root",
+        "password": "",
+        "db_select": "11",
+        "decode_responses": "True",
+        "max_memory": "5120",
+        "max_connections": "1",
+
+    },
+    # 129 本地连接
+    "local": {
+        "host": "192.168.1.129",
+        "port": 6379,
+        # "user": "root",
+        "password": "shiye",
+        "db_select": "11",
+        "decode_responses": "True",
+        "max_memory": "5120",
+        "max_connections": "1",
 
 }
